@@ -1,0 +1,15 @@
+table {
+	border: 1px;
+	border-style: solid;
+	border-color: red;
+	background-color: wheat;
+}
+
+h1 {
+	font-size: 30px;
+}
+
+tr {
+	border-style: solid;
+	border-color: black;
+}
